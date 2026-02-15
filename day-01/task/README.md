@@ -306,7 +306,12 @@ The Container-Presenter pattern is a fundamental design pattern in React that pr
 
 ## Video
 
-<video width="100%" controls>
+<!-- <video width="100%" controls>
   <source src="./react-container-presenter-pattern.mp4" type="video/mp4">
   Your browser does not support the video tag.
-</video>
+</video> -->
+
+<!-- [![Video Title](./react-container-presenter-pattern.gif)] -->
+<div style="max-width:1024px; width:100%; margin: 0 auto; text-align:center">
+<img style="width:100%" src="./react-container-presenter-pattern.gif" alt="" />
+</div>
